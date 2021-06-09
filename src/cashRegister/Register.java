@@ -1,5 +1,5 @@
-#このクラスはjavafxを使って伝票を表現しています。
-#This class shows the check by using javafx.
+// このクラスはjavafxを使って伝票を表現しています。
+// This class expresses the check by using javafx.
 
 package cashRegister;
 

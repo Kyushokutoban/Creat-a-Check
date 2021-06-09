@@ -1,3 +1,6 @@
+#FoodNriceクラスは、商品の名前と価格のデータを管理するクラスです。
+#This class FoodNPrice manage the data of food name and its price.
+    
 package cashRegister;
 
 import java.util.HashMap;

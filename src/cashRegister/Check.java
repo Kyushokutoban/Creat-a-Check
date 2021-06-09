@@ -1,5 +1,5 @@
-#このクラスは伝票を作成します。
-#This class creats a check.
+// このクラスは伝票を作成します。
+// This class creats a check.
 
 package cashRegister;
 

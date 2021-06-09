@@ -1,3 +1,6 @@
+#このクラスはjavafxを使って伝票を表現しています。
+#This class shows the check by using javafx.
+
 package cashRegister;
 
 import java.util.Scanner;

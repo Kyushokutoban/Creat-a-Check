@@ -40,10 +40,7 @@ public class Register extends Application
 
         mainBorder = new BorderPane();
 
-        int date = now.get(Calendar.DAY_OF_MONTH);
-        int month = now.get(Calendar.MONTH);
-        int year = now.get(Calendar.YEAR);
-        String today = "Date                            " + date + "/" + month + "/" + year + "";
+        String today = "Date                            " + (now.get(Calendar.MONTH) + 1) + "/" + now.get(Calendar.DATE) + "/" + now.get(Calendar.YEAR) + "";
 
         basicInfo = new VBox();
         labels = new Label[8];
